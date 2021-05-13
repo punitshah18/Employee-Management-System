@@ -4,10 +4,7 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author krishchandarana
- */
+
 public class AddEmployee extends javax.swing.JFrame {
 
     private MyHashTable theMainHashTable;
