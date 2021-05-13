@@ -7,10 +7,7 @@ import javax.swing.table.DefaultTableModel;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author krishchandarana
- */
+
 public class DisplayAllEmployee extends javax.swing.JFrame {
 
     private MyHashTable theMainHashTable;
