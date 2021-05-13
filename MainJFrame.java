@@ -10,10 +10,7 @@ import java.util.logging.Level;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 
-/**
- *
- * @author krishchandarana
- */
+
 public class MainJFrame extends javax.swing.JFrame {
 
     private MyHashTable theHT;
