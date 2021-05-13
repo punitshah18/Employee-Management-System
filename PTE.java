@@ -4,11 +4,7 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author krishchandarana
- */
-    
+
 // PART TIME EMPLOYEE
 
 public class PTE extends EmployeeInfo {
